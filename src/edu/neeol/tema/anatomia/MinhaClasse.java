@@ -8,6 +8,8 @@ public class MinhaClasse {
 		
 		System.out.println(true);
 		
+		System.out.println(false);
+		
 		
 
 	}
